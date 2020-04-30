@@ -11,4 +11,4 @@ This repository contains my random pytorch practice scripts
 </ul>
 And much more to come...
 
-# Pytoch is Amazing !!
+## PS : Pytoch is Amazing !! ;-)
