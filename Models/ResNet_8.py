@@ -1,3 +1,4 @@
+# No skip connections implemented
 class Res_Type(nn.Module):
   def __init__(self):
     super(Res_Type, self).__init__()
