@@ -33,7 +33,7 @@ class Res_Type(nn.Module):
       nn.BatchNorm2d(256),
       nn.ReLU(),      
       nn.AvgPool2d(12))  
-    self.fc1 = nn.Linear(128, 512)
+    self.fc1 = nn.Linear(256, 512)
     self.fc2 = nn.Linear(512, 256)
     self.fc3 = nn.Linear(256, 11)
     
