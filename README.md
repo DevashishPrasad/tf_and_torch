@@ -1,4 +1,4 @@
-# Pytorch_Models
+# Pytorch_Scripts
 
 This repository contains my random pytorch practice scripts
 
