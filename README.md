@@ -1,10 +1,8 @@
 # Pytorch_Scripts
 
-This repository contains my random pytorch practice scripts
-
-## Till now
+This repository contains some random pytorch scripts for
 <ul>
-  <li>Experimenting Random Models</li>
+  <li>Building custom Models</li>
   <li>Data loading and visualizing</li>
   <li>Model Training and Optimizing</li>
   <li>Visualizing Model feature maps and kernels</li>
