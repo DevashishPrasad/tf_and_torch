@@ -46,8 +46,7 @@ class Res_Type(nn.Module):
     # Normal block
     self.layer4_N = nn.Sequential(
       nn.Conv2d(256, 256, kernel_size=3, stride=1, padding=1),
-      nn.BatchNorm2d(256),
-      nn.ReLU())      
+      nn.BatchNorm2d(256))      
     # Identity block
     self.identity_4 = nn.Conv2d(256, 512, kernel_size=1, stride=1)
 
