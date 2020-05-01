@@ -16,7 +16,7 @@ And much more to come...
   <li> VGG_6.py </li>
   <li> VGG_16.py </li>
   <li> ResNet_8.py  </li>
-  <li> Resnet_18.py	</li>
+  <li> Resnet_18.py	<a href="Model graphs/resnet18.onnx.png">(graph)</a></li>
 </ol>
 
 ## PS : Pytoch is Amazing !! ;-)
