@@ -11,4 +11,12 @@ This repository contains my random pytorch practice scripts
 </ul>
 And much more to come...
 
+## Custom Models made from scratch : 
+<ol>
+  <li> VGG_6.py </li>
+  <li> VGG_16.py </li>
+  <li> ResNet_8.py  </li>
+  <li> Resnet_18.py	</li>
+</ol>
+
 ## PS : Pytoch is Amazing !! ;-)
