@@ -11,21 +11,21 @@ And much more to come...
 
 ## Custom CNN Models made from scratch : 
 
-1. ModuleList <br>
+1. **NN using ModuleList** <br>
     A simple Neural Network with nn.ModuleList(). You can define its architecture at the runtime.
     <ol>
     <li>Models/NN.py</li>
     </ol>
 
-2. VGG based models <br>
+2. **VGG based models** <br>
     VGG is the simplest symmetric CNN to start with.
     <ol>
     <li> Models/VGG_6.py </li>
     <li> Models/VGG_16.py </li>
     </ol>
 
-3. ResNet based models  <br>
-  ResNet (Residual Networks) is another simple CNN which uses skip connections to solve vanishing gradient problems and go even deeper.
+3. **ResNet based models**  <br>
+    ResNet (Residual Networks) is another simple CNN which uses skip connections to solve vanishing gradient problems and go even deeper.
     <ol>
     <li> Models/ResNet_8.py </li>
     <li> Models/ResNet_12.py </li>
@@ -34,17 +34,17 @@ And much more to come...
 
 ## Siamese of Triplet nets made from scratch : 
 
-1. Siamese Network  <br>
-  Siamese networks are the twin networks that try to learn the best possible embeddings for the input data. We then use distance between these embeddings to distinguish between images.
-  <ol>
-  <li> Models/Simple_siamese.py </li>
-  </ol>
+1. **Siamese Network**  <br>
+    Siamese networks are the twin networks that try to learn the best possible embeddings for the input data. We then use distance between these embeddings to distinguish between images.
+    <ol>
+    <li> Models/Simple_siamese.py </li>
+    </ol>
 
-2. Triplet Network  <br>
-  Same as the siamese networks but here there are thress netwokrs that try to learn the possible embeddings for the input data.
-  <ol>
-  <li> Models/Simple_triplet.py </li>
-  </ol>
+2. **Triplet Network**  <br>
+    Same as the siamese networks but here there are thress netwokrs that try to learn the possible embeddings for the input data.
+    <ol>
+    <li> Models/Simple_triplet.py </li>
+    </ol>
 
 I use Mnist dataset as an example for both of the above models. 
 
