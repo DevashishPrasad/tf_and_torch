@@ -51,4 +51,7 @@ I use Mnist dataset as an example for both of the above models.
 ## Training
 The training folder contains various training pipelines.
 
+## Visualize Model
+In this folder you can find scripts to visualize the kernels and weights learnt by the model. It is a good way to audit the learning process of the models.
+
 ## And BTW Pytoch is Amazing !! ;-)
