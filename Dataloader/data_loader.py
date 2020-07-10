@@ -17,5 +17,7 @@ Edataset = ExDataset()
 # 10% Train - Test Split
 train_set, test_set = torch.utils.data.random_split(Edataset, [20250, 2250])
 
-train_loader = DataLoader(train_set, batch_size=64, shuffle=True,num_workers=2)
-test_loader = DataLoader(test_set, batch_size=64, shuffle=True,num_workers=2)
+b_size = 64
+
+train_loader = DataLoader(train_set, batch_size=b_size, shuffle=True,num_workers=2)
+test_loader = DataLoader(test_set, batch_size=b_size, shuffle=True,num_workers=2)
