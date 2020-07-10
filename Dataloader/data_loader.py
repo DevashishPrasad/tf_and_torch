@@ -21,3 +21,5 @@ b_size = 64
 
 train_loader = DataLoader(train_set, batch_size=b_size, shuffle=True,num_workers=2)
 test_loader = DataLoader(test_set, batch_size=b_size, shuffle=True,num_workers=2)
+
+dataloaders = {'train':train_loader,'test':test_loader}
