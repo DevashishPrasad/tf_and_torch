@@ -13,7 +13,7 @@ And much more to come...
 ## Tensorflow
 ### Basic Training Pipeline :
 
-1. **Simple Keras pipeline for Feed Forward NN** <br>
+1. **Keras pipeline for Feed Forward NN** <br>
 	Splitting the dataset using KFold, then creating wrapping data in TF dataset api. Then building and training the Feed forward NN. Save the model and visualize the training process
     <ol>
     <li>Tensorflow/Basic Pipeline/Basic.py.py</li>
