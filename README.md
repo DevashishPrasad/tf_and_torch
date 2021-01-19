@@ -1,4 +1,4 @@
-# Pytorch_Scripts
+# tf_and_torch
 
 This repository contains some handy tensorflow and pytorch scripts for
 <ul>
