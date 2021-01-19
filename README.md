@@ -40,7 +40,7 @@ And much more to come...
     <ol>
     <li> PyTorch/Models/ResNet_8.py </li>
     <li> PyTorch/Models/ResNet_12.py </li>
-    <li> PyTorch/Models/Resnet_18.py	<a href="Model graphs/resnet18.onnx.png">(graph)</a></li>
+    <li> PyTorch/Models/Resnet_18.py	<a href="PyTorch/Model graphs/resnet18.onnx.png">(graph)</a></li>
     </ol>
 
 ### Siamese of Triplet nets made from scratch : 
